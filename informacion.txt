@@ -1,0 +1,17 @@
+npm i react-router-dom --> Libreria de rutas 
+
+npm install react-data-table-component --> Libreria de DataTable
+
+npm install react-data-table-component styled-components --> Libreria de estilis de DataTable
+
+npm install @mui/material @emotion/react @emotion/styled --> Libreria de estilo, paginacion DataTable
+
+npm install @mui/icons-material --> iconos DataTable
+
+npm i --save @fortawesome/fontawesome-svg-core
+npm install --save @fortawesome/free-solid-svg-icons
+npm install --save @fortawesome/react-fontawesome
+
+
+
+https://colorlib.com/wp/free-dashboard-templates/
